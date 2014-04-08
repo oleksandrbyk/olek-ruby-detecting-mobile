@@ -11,7 +11,7 @@ The master branch of this plugin is Rails 3 compatible.
 
 To use the Rails 3 compatible version of this plugin, please install it like so:
 
-    rails plugin install git://github.com/brendanlim/mobile-fu.git
+    rails plugin install git://github.com/oleksandrbyk/olek-ruby-detecting-mobile.git
 
 == Rails 2 Compatibility
 
@@ -19,7 +19,7 @@ You will need to install this plugin from the 2.x branch.
 
 To use the Rails 2 compatible version of this plugin, please install it like so:
 
-    script/plugin install git://github.com/brendanlim/mobile-fu.git -r 2.x
+    script/plugin install git://github.com/oleksandrbyk/olek-ruby-detecting-mobile.git -r 2.x
 
 == Usage
 
